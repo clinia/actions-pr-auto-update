@@ -1,4 +1,4 @@
-name: Auto-update pull requests
+name: "[Clinia] Auto-update pull requests"
 description: Keep your pull requests up-to-date with a base branch
 author: 'Cassondra Roberts'
 inputs:
